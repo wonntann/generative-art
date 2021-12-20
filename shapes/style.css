@@ -1,0 +1,31 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(113, 101, 124);
+    overflow-x: hidden;
+}
+
+.art {
+    margin: 2em;
+    height: 600px;
+    width: 600px;
+    border: 20px solid rgb(85, 32, 10);
+    border-radius: 5%;
+}
+
+.frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vh;
+}
+view raw
+shapes.css hosted with ❤ by GitHub
