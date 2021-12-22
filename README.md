@@ -1,4 +1,4 @@
-# Generative-art
+# Generative Art
 
 Generative art is in reference to a programmed art piece that was created with the use of an autonomous system. This style of art is often termed algorithmic art. The first steps into creating your art piece is to create rules that provide boundaries for the art creation process. Next, the computer will process the code and produce your art work. Generative art creators enable modern technology to instruct programs to run within the coded constraints. 
 
