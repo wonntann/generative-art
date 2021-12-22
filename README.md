@@ -1,5 +1,8 @@
 # Generative-art
-My experiments with coding different art projects focusing on JavaScript. Discover own ideas in programming while incorporating algorithms with slight variations.
+
+Generative art is in reference to a programmed art piece that was created with the use of an autonomous system. This style of art is often termed algorithmic art. The first steps into creating your art piece is to create rules that provide boundaries for the art creation process. Next, the computer will process the code and produce your art work. Generative art creators enable modern technology to instruct programs to run within the coded constraints. 
+
+Explore this project to learn design and create media using object-oriented programming as the art medium, while focusing on your fundamental JavaScript coding skills.
 
 
 # Web Programming Library
@@ -92,6 +95,7 @@ In order to run the code in VS Code, there are a few steps that need to be follo
 - [Think Create Code](https://www.edx.org/course/think-create-code)
 - [Kadenze](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 
+- [edX Creative Coding](https://www.edx.org/course/creative-coding?source=aw&awc=6798_1640134189_a45468b32a2868f7762ece69b3b2afea&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=895279_AIArtists.org)
 - [CSS Doodle](https://css-doodle.com/)
 - [Generative Art Book](https://inconvergent.net/generative/)
 - [OpenGl](https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)
