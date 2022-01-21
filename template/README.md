@@ -38,4 +38,4 @@ A nice place to start if a visual learner, using JavaScript syntax with the p5.j
 
 # Terms
 - Pixels
-- Cartesian coordinate system
+- Cartesian coordinate system (2d)
