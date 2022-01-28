@@ -9,21 +9,25 @@ Explore this project to learn design and create media using object-oriented prog
 - [p5.js](https://p5js.org/) is an open source programming language using JavaScript
 - [processing.py](https://github.com/jdf/processing.py) is an open source programming language using Python
 
+<div id="top"></div>
+
 # Table of Contents
-<div id="top">
-    <ol>
-    <li><a href="#prerequisites">Prerequisites</li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#accessibility">Accessibility</a></li>
-    <li><a href="#syntax">Syntax</a></li>
-    <li><a href="#vs-code-live-server">Running code in VS Code</a></li>
-    <li><a href="#online-editor">Online Editor</a></li>
-    <li><a href="#courses">Courses</a></li>
-    <li><a href="#videos">Videos</a></li>
-    <li><a href="#art-pieces">Art Pieces</a></li>
-    <li><a href="#communities">Communities</a></li>
-    </ol>
-</div>
+- [How To Read This](#how-to-read-this)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Accessibility](#accessibility)
+- [Syntax](#syntax)
+- [Running code in VS Code](#vs-code-live-server)
+- [Online Editor](#online-editor)
+- [Courses](#courses)
+- [Videos](#videos)
+- [Art Pieces](#art-pieces)
+- [Communities](#communities)
+    
+
+# How To Read This
+Included in this repository are the steps that I took in order to work with VS Code on my different machines. There will be links to the respective documentation for that subject, either open within the repo files or through the **Documentation** section links.
+- If you would like to jump to sections and you are within the GitHub website, locate the **Table of Contents** menu in the upper left of this repo header (and select from the dropdown
 
 # Prerequisites
 - Access to a browser, if working on hosted p5.js
